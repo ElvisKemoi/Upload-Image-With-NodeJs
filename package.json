@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "axios": "file:D:/Node Modules Offline/axios-1.7.7.tgz",
+    "form-data": "^4.0.1"
+  }
+}
